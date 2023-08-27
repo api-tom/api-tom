@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @api-tom
+- 👋 Hi, I’m @TomDolen
 - 👀 I’m interested in building amazing APIs
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on bringing APIs to market
